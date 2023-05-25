@@ -1,0 +1,13 @@
+// set file <C:/MyProjects_TJ/02_Planar PIV/Cam_Date=041014_Time=175211/PIV_MP(2x48x48_50%ov_ImgCorr)_GPU/1_01.set> created by DaVis
+
+#GROUP Sets
+SetType = 512;
+SetGroups = "";
+SetTime = "Mon May 08 13:34:47 2023";
+SetComments = "";
+SetStart = 1;
+SetInc = 1;
+SetSourceSet = "";
+SetViewCallback = "";
+SetLoadCallback = "";
+bpInfoString = "2021-10-04 12:04:50:  on GPUSubtractSlidingBackground(8)\n\tCorrelation mode = Cross Correlation using image correction\n\tPIV mode = Standard\n\tMulti pass mode = 2x  (64x64 , 75%) -------> 2x (48x48 , 50%)\n\tVector postprocessing= + Median(2,3)\n2023-05-08 13:34:47: No information available.";

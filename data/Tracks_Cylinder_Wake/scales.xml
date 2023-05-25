@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParticleFieldScales>
+    <ScaleX Factor="0.067367" Offset="-31.86" Unit="mm" Description=""/>
+    <ScaleY Factor="-0.067367" Offset="25" Unit="mm" Description=""/>
+    <ScaleZ Factor="0.067367" Offset="0" Unit="mm" Description=""/>
+    <ScaleI Factor="1" Offset="0" Unit="" Description=""/>
+</ParticleFieldScales>

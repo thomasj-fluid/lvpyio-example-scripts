@@ -1,0 +1,14 @@
+// set file <Case_low_ppp_high_temp_resolution.set> created by DaVis
+
+#GROUP Sets
+SetType = 16777216;
+SetGroups = "";
+SetTime = "Mon Sep 26 11:14:25 2022";
+SetComments = "";
+SetStart = 1;
+SetInc = 1;
+SetSourceSet = "";
+SetTitle = "";
+SetViewCallback = "";
+SetLoadCallback = "";
+SetIdentifier = "ParticleField";
